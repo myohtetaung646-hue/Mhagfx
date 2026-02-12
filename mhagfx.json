@@ -16,6 +16,14 @@
     },
     {
       "device_id": "56e01c501b637ed2",
+      "expiry_date": "15/02/2026",
+      "is_active": true,
+      "key": "MHA",
+      "nickname": "Mha"
+    },
+    
+   {   
+      "device_id": "56e01c501b637ed2",
       "expiry_date": "15/03/2026",
       "is_active": true,
       "key": "MHA",
