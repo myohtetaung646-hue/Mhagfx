@@ -1,0 +1,21 @@
+{
+  "database": [
+    {
+      "device_id": "",
+      "expiry_date": "12/02/2026",
+      "is_active": true,
+      "key": "NEX-TGF6-LCKY",
+      "nickname": ""
+    },
+    {
+      "device_id": "413c2983b4635ab3",
+      "expiry_date": "15/02/2026",
+      "is_active": true,
+      "key": "KING-TEAM",
+      "nickname": "Myself"
+    }
+  ],
+  "maintenance": false,
+  "status": "online",
+  "vip_message": ""
+}
